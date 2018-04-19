@@ -1,4 +1,4 @@
-# Triviathon
+# Automatic Trivia Fact Extraction from Wikipedia
 
 ### DATASET (Cached Wikipedia Data)
 **[LINK To Data ](https://drive.google.com/open?id=0B0JsA9YchOf7SHdlRFBGXzZJY0k)** (one need to be in tamu.edu domain to open it)
