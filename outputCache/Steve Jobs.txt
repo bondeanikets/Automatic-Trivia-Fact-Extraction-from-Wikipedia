@@ -1,0 +1,30 @@
+American Zen Buddhists:1.1602851076784637
+Organ transplant recipients:1.0460617634651719
+Deaths from cancer in California:0.96453922584142449
+American inventors:0.95718125266155196
+American adoptees:0.93994968308616067
+Burials in California:0.93415155241352155
+American billionaires:0.93183435772770107
+Internet pioneers:0.930196664254481
+American film studio executives:0.91424429280250019
+American people of German descent:0.90543065484285046
+Computer designers:0.90478396556798257
+Disney people:0.90366348998816826
+People from Palo Alto, California:0.89736551174090995
+American people of Syrian descent:0.89217856232547466
+20th-century American businesspeople:0.88577409565686205
+1955 births:0.88185106631915833
+Psychedelic drug advocates:0.87755342218321852
+Deaths from pancreatic cancer:0.87651100711039842
+Businesspeople in software:0.87171602295008288
+National Medal of Technology recipients:0.8706443549663575
+Businesspeople from San Francisco:0.86114056302038811
+American computer businesspeople:0.8597174567467194
+American people of Swiss descent:0.8554254443574989
+Businesspeople from California:0.85459382644710513
+American industrial designers:0.85084837348677211
+21st-century American businesspeople:0.8498673765972925
+American technology chief executives:0.84801863254766885
+2011 deaths:0.84459731623016943
+Apple Inc.:0.83682657858676757
+American technology company founders:0.83571247324970455

@@ -1,0 +1,62 @@
+American Zionists:1.2880604066342369
+20th-century German writers:1.2422222293788865
+German socialists:1.2130500601371448
+Jewish socialists:1.1969124686836905
+People from Munich:1.1422315795855555
+German Nobel laureates:1.1290616017613102
+Members of the Bavarian Academy of Sciences:1.1205629466399671
+Charles University in Prague faculty:1.1196388018064509
+American socialists:1.1013732149148641
+German Jews:1.0976444739742253
+German inventors:1.0716844806948231
+ETH Zurich faculty:1.0715091555305121
+Anti-nationalists:1.0659025806103055
+Jewish philosophers:1.0654598056868838
+Nobel laureates in Physics:1.0620088082552301
+German people of Jewish descent:1.059932742840999
+Stateless people:1.059873963391043
+American inventors:1.0554512024052944
+People from Berlin:1.0358258249312957
+People from Zürich:1.032570923577546
+ETH Zurich alumni:1.031288486717258
+Swiss Jews:1.0214638334334358
+Leiden University faculty:1.0202120870889817
+Philosophers of science:1.003279854805041
+Members of the Royal Netherlands Academy of Arts and Sciences:0.98559269201577937
+Members of the American Philosophical Society:0.98258622542535412
+People from Bern:0.97250746797842447
+American pacifists:0.97176263661965734
+Ashkenazi Jews:0.96603750257562904
+Sigma Xi:0.95512749451095835
+Swiss emigrants to the United States:0.95416082044396122
+Recipients of the Pour le Mérite (civil class):0.949687777521112
+Institute for Advanced Study faculty:0.94638371609521355
+American people of German-Jewish descent:0.94030993123921069
+Jewish emigrants from Nazi Germany to the United States:0.93893433880778487
+20th-century American writers:0.93888891571600541
+20th-century American engineers:0.93886040528661052
+Swiss physicists:0.93340784259829468
+People with acquired American citizenship:0.9326494677170577
+Subjects of iconic photographs:0.93001242148513674
+Albert Einstein:0.92864971464350576
+1879 births:0.92657740434363045
+German physicists:0.92056804993630048
+Jewish inventors:0.91862216656484619
+People from Princeton, New Jersey:0.91478744450232607
+1955 deaths:0.91154643548947767
+American science writers:0.91035011681961808
+Foreign Fellows of the Indian National Science Academy:0.90619170106796409
+Corresponding Members of the Russian Academy of Sciences (1917–25):0.90562470207944434
+American engineers:0.90541974040151685
+Relativity theorists:0.90322336509362011
+Foreign Members of the Royal Society:0.90315878323391707
+20th-century physicists:0.90286008856463285
+Jewish American scientists:0.89929446344701214
+American physicists:0.89920152320698188
+Cosmologists:0.89256960638741289
+Honorary Members of the USSR Academy of Sciences:0.88648177532833472
+Jewish physicists:0.881402921058003
+Theoretical physicists:0.87652781182339334
+People from Ulm:0.87052239726324798
+Jewish agnostics:0.83493116271333945
+American agnostics:0.82287453416520495
