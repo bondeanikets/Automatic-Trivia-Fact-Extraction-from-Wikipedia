@@ -1,0 +1,104 @@
+.category .catHead{
+	text-align: center;
+}
+.catHead{
+	text-align: left;
+	width: 100%;
+	font-family: Georgia,serif,Times; font-size: 4vh;
+	color: #f2f2f2;
+	background-color: #333333;
+	height:10vh;
+}
+
+.catList{
+	background-color: #e6e6e6;	
+	margin-bottom:0px;
+}
+
+.header{
+	margin-bottom: 0px; 
+	height:10vw;
+}
+
+.category{
+	font-family:Georgia,serif,Times; 
+	font-size:3.0vh; 
+	height:6vh;
+}
+
+#loadMore{
+	width:100%;
+	color:#000000;
+	font-size: 4vh;
+	padding: 1% 3%;
+	height:8vh;
+}
+
+.searchbar{
+	margin-left: 0;
+}
+
+#sliding{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.carousel{
+	width:100%;
+	margin-bottom: 10vh;
+	margin-left: 0;
+	margin-top:5vh;
+}
+
+#wrapper { 
+  border : 2px solid #000; 
+  overflow:hidden;
+}
+
+#one {
+  float:left;
+  width:50%;
+}
+#two { 
+  background-color: white;
+  overflow:hidden;
+  width:50%;
+  float:right;
+}
+
+@media screen and (max-width: 600px) {
+   #one, #two { 
+    float: none;
+    margin-right:0;
+    width:auto;
+    border:0;
+    border-bottom:2px solid #000;  
+  }
+}
+
+#description{
+	text-align:left;
+	margin-top: 4vh;
+	margin-right: 6vw;
+	font-family: Georgia,serif,Times; font-size: 4vh;
+}
+
+#pointList{
+	font-size: large;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.carousel-inner{
+	width:inherit;
+	height:inherit;
+}
+
+.item{
+	width:inherit;
+	height:inherit;
+}
+
+.imgSlide{
+	width:inherit;
+	height:inherit;	
+}

@@ -1,0 +1,67 @@
+<!-- The carousel entity in the html is derived from https://github.com/singhsume123/TSSE  -->
+
+<!doctype html>
+<html>
+<head>
+    <meta lang="en" charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Automatic Trivia Fact Extraction from Wikipedia</title>
+    <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <!-- custom css -->
+    <link rel="stylesheet" href={{ url_for('static', filename='css/demo.css')}}>
+    <link rel="stylesheet" href={{ url_for('static', filename='css/header-search.css')}}>
+    <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>
+    <link href={{ url_for('static', filename='css/entity.css') }} rel="stylesheet">
+</head>
+<body>
+    <script type="application/javascript" src="js/jquery-2.2.1.min.js"></script>
+    <script type="application/javascript" src="js/bootstrap.min.js"></script>
+    <!-- <div id = "header"></div>     -->
+    <div id="header"></div>
+    <script>
+        $(document).ready(function() {
+            $('#header').load('header.html');
+        });
+    </script>
+    <div class="row searchbar" style="width:100%; height:7vh;">
+        <div style="height:inherit;">
+            <form action="/entity", method="POST" style="width:100%;height:inherit;">
+                <input type="submit"value="Search" style="float: right; width:25%; height:inherit;" class="btn btn-primary" id = "search" />
+                <div style="overflow: hidden; height:inherit;">
+                    <input type="text" style="width: 100%; height: inherit;" placeholder="Search for trivia" id ="searchfield" name ="searchfield" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div id="wrapper">
+        <div id="page-content-wrapper">
+            <div class="container">
+                <div id ="one">
+                    <div id="description">
+                        <div>
+                            <span>
+                                Automatic Trivia Fact Extraction from Wikipedia
+                            </span>
+                            <ul id="pointList">
+                                <li id="points">
+                                    A trivia search engine based on Surprise factor and Cohesiveness among different categories.
+                                </li>
+                                <li id="points">
+                                    Developed out of a course project on Natural Language Processing.
+                                </li>
+                                <li id="points">
+                                    Trivia Facts based on WikiPedia dataset.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                
+                </div>
+            </div>
+        </body>
+        </html>
