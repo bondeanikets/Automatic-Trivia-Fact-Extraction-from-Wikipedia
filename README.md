@@ -35,10 +35,10 @@ https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
    
 You can either run it from terminal, just type the following command: $ python batchRun.py The above command will automatically start running online for the entities in the topEntityList.txt and generate the output in the outputCache folder for each entity
 
-Alternativly you can run the web app for already cached entities from the data link given above. Download the outputCache folder and run the following command $ python app.py Open the web on localhost at given port, and then just type any entity from the toEntityList.txt and get ranked trivia facts
-
+Alternativly you can run the web app for already cached entities from the data link given above. Download the outputCache folder and run the following command $ python app.py Open the web on localhost at given port, and then just type any entity from the toEntityList.txt and get ranked trivia facts. You can also play Triviathon- Game on this website. 
 
 
 ### Technology stack used
 Backend: Backend is powered by python. All the algorithms are written in python.
 Full Stack Framework: It is Flask powered framework with python, css, html and javascript. (http://flask.pocoo.org/)
+
